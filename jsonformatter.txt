@@ -1,0 +1,27 @@
+﻿{
+  "Names": {
+    "Name": [
+      "Sachin",
+      {
+        "country of birth": "INDIA"
+      },
+      {
+        "Expertise field ": "cricket"
+      },
+      "Rahman",
+      {
+        "country of birth ": "INDIA"
+      },
+      {
+        "Expertise field ": "music"
+      },
+      "Elon",
+      {
+        "country of birth": "Southafrica"
+      },
+      {
+        "Expertise field": "Spacex"
+      }
+    ]
+  }
+}
